@@ -8,7 +8,7 @@ int main()
     int y;
     string z;
     int n;
-    float w;
+    int w;
    
 
     cout<<"Enter the number of the system type you want to convert from:\n";
